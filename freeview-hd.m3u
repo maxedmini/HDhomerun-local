@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml"
+
+#EXTINF:-1 tvg-id="bbc_one_wales_hd" tvg-name="BBC One Wales HD",BBC One Wales HD
+http://hdhr-12608074.local:5004/auto/v101
+
+#EXTINF:-1 tvg-id="bbc_two_wales_hd" tvg-name="BBC Two Wales HD",BBC Two Wales HD
+http://hdhr-12608074.local:5004/auto/v102
+
+#EXTINF:-1 tvg-id="itv1_wales_hd" tvg-name="ITV1 Wales HD",ITV1 Wales HD
+http://hdhr-12608074.local:5004/auto/v103
+
+#EXTINF:-1 tvg-id="s4c_hd" tvg-name="S4C HD",S4C HD
+http://hdhr-12608074.local:5004/auto/v104
+
+#EXTINF:-1 tvg-id="channel5_hd" tvg-name="Channel 5 HD",Channel 5 HD
+http://hdhr-12608074.local:5004/auto/v105
+
+#EXTINF:-1 tvg-id="bbc_four_hd" tvg-name="BBC Four HD",BBC Four HD
+http://hdhr-12608074.local:5004/auto/v106
+
+#EXTINF:-1 tvg-id="channel4_hd" tvg-name="Channel 4 HD",Channel 4 HD
+http://hdhr-12608074.local:5004/auto/v110
+
+#EXTINF:-1 tvg-id="cbeebies_hd" tvg-name="CBeebies HD",CBeebies HD
+http://hdhr-12608074.local:5004/auto/v204
